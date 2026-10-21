@@ -1,10 +1,10 @@
 # Trabalho-2-Algoritmos
 
-#Listas
+# Listas
 
 Por conta de certas características da lista ordenada e da lista não ordenada serem iguais, optamos por criar uma "listaBase" para possuir tais características e depois criar as classes "listaOrdenada" e "listaDesordenada" com herança dessa "listaBase".
 
-#Pilha e Fila
+# Pilha e Fila
 
 Tanto a Pilha quanto a Fila não utilizam uma organização crescente/decrescente, então foi optado que elas herdassem as características da "listaDesordenada", para que elas tivessem, principalmente, o inserir no inicio e no final.
 
