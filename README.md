@@ -9,3 +9,8 @@
 | Lista Não Ordenada  | O(1) | O(n) | O(n) |
 | Pilha | O(1) | O(1) | - |
 | Fila | O(1) | O(n) | - |
+
+
+# Integrantes
+Eduarda Alves
+Lucas Sancho
