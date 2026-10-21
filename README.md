@@ -1,7 +1,8 @@
 # Trabalho-2-Algoritmos
 
-# Complexidade
 
+
+# Complexidade
 | Tipo de estrutura | Inserção | Remoção | Busca |
 | ---- | ---- | ---- | ---- |
 | Lista Ordenada  | O(n) | O(n) | O(log(n)) |
